@@ -13,13 +13,6 @@ Team member : A Manjula
 Team member : Manju
 
 
-Features
-
-Donor registration and food listing
-NGO/Volunteer portal for viewing available donations
-Real-time food availability tracking using Lightning components
-Automated notification system using Salesforce Flows
-Data management through custom objects and relationships.
 
 
 Salesforce Instance: https://orgfarm-8022fdf76a-dev-ed.develop.lightning.force.com/lightning/page/home
