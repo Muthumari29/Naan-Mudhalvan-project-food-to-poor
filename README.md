@@ -21,13 +21,6 @@ Real-time food availability tracking using Lightning components
 Automated notification system using Salesforce Flows
 Data management through custom objects and relationships.
 
-Technologies Used
-
-Salesforce Lightning App Builder
-Apex Classes & Triggers
-Lightning Web Components (LWC)
-Salesforce Data Model & Flows.
-Objective To create a sustainable, cloud-based platform that ensures leftover food reaches those in need efficiently, reducing food waste and hunger.
 
 Salesforce Instance: https://orgfarm-8022fdf76a-dev-ed.develop.lightning.force.com/lightning/page/home
 
